@@ -1,0 +1,30 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/reisbureau.css">
+    <title>Reisbureau</title>
+</head>
+<title>Welcome to Spring Web MVC project</title>
+
+<body>
+    <div id="main">
+        <div id="header">
+            <div id="widgetBar">
+
+                <div class="headerWidget">
+                    [ language toggle ]
+                </div>
+
+                <div class="headerWidget">
+                    [ shopping cart widget ]
+                </div>
+
+            </div>
+
+            <a href="#">
+                <img src="#" id="logo" alt="Affable Bean logo">
+            </a>
+
+            <img src="#" id="logoText" alt="Reisbureau">
+        </div>
